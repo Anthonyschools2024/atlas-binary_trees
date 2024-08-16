@@ -1,0 +1,1 @@
+In this project we will be learning how to implement binary trees in the equations.
